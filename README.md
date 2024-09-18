@@ -3,6 +3,7 @@
 ### 💻 Computer Science Student | Problem Solver | Frontend Enthusiast
 
 I'm a passionate Computer Science student who loves solving problems and creating awesome web experiences. I enjoy exploring new technologies, and I'm continuously learning to improve my skills.
+<br>
 <img src="https://media.tenor.com/aykg8r1O0CkAAAAi/mofupiyo-mofu-piyo.gif" width=250> 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ff8390&size=30&lines=Hi!+It's+Tasneem+(✿◡‿◡);I'm+a+Computer+science+student;I+love+problem+solving)](https://git.io/typing-svg)
 
