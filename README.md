@@ -1,6 +1,6 @@
 # Hi there, I'm Tasneem! 👋
 
-### 💻 Computer Science Student | Problem Solver | Frontend Enthusiast
+### 💻 Computer Science Student | Problem Solver | Full-stack develper (Angular, React.js & node.js, express.js) 
 
 I'm a passionate Computer Science student who loves solving problems and creating awesome web experiences. I enjoy exploring new technologies, and I'm continuously learning to improve my skills.
 <br>
