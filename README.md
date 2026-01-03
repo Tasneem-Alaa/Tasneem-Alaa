@@ -1,6 +1,6 @@
 # Hi there, I'm Tasneem! 👋
 
-### 💻 Computer Science senior Student | Full-stack develper (React.js, Node.js, Express.js, MongoDB)  | Problem Solver
+### 💻 Computer Science senior Student | Full-stack developer (React.js, Node.js, Express.js, MongoDB)  | Problem Solver
 
 I'm a passionate Computer Science student who loves solving problems and creating awesome web experiences. I enjoy exploring new technologies, and I'm continuously learning to improve my skills.
 <br>
