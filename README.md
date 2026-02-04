@@ -1,39 +1,16 @@
 # Hi there, I'm Tasneem! 👋
 
-### 💻 Computer Science senior Student | Full-stack developer (React.js, Node.js, Express.js, MongoDB)  | Problem Solver
+### 💻 CS senior Student at ASU | Full-stack developer (React.js, Node.js, Express.js, MongoDB) | Problem Solver
 
-I'm a passionate Computer Science student who loves solving problems and creating awesome web experiences. I enjoy exploring new technologies, and I'm continuously learning to improve my skills.
+I'm a passionate Computer Science student who loves solving problems and creating awesome web experiences. I enjoy exploring new technologies. I'm continuously learning to improve my skills.
 <br>
-<img src="https://media.tenor.com/aykg8r1O0CkAAAAi/mofupiyo-mofu-piyo.gif" width=250> 
+<img src="https://media.tenor.com/aykg8r1O0CkAAAAi/mofupiyo-mofu-piyo.gif" width=180> 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ff8390&size=30&lines=Hi!+It's+Tasneem+(✿◡‿◡);I'm+a+Computer+science+student;I+love+making+awesome+websites+&+softwares)](https://git.io/typing-svg)
 
 ---
 
 ##  Languages & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>
 <br/>
-<!-- <p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</p> -->
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -41,6 +18,8 @@ I'm a passionate Computer Science student who loves solving problems and creatin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
@@ -77,15 +56,18 @@ I'm a passionate Computer Science student who loves solving problems and creatin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
+---
+## Projects
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tasneem-alaa&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tasneem-alaa" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=tasneem-alaa&show_icons=true&locale=en&theme=tokyonight" alt="tasneem-alaa" height="150" />
-</div> -->
-
+- 🤖 **HireVision (Graduation Project)**: An AI-powered recruitment system for automated CV analysis, job recommendations, video interviews, and question generation.
+- 👥 **[TasNet](https://github.com/Tasneem-Alaa/TasNet-SocialApp)**: A full-stack MERN social media platform designed for seamless user connectivity.
+- 🕵🏼‍♀️ **[MysteryCase](https://github.com/Tasneem-Alaa/MysteryCase)**: An immersive detective puzzle web game solving criminal cases through logic and clues.
+- 📊 **[Steam Sales Analysis](https://github.com/3twla-Girls/Videogame-Sales-on-Steam-Prediction)**: ML project predicting game success with 90.7% accuracy.
+- 🍳 **[ChefAI](https://github.com/Tasneem-Alaa/ChefAI)**: A creative React application that integrates AI APIs to generate recipes based on available ingredients.
+- 🛣️ **[GUIDE ME](https://github.com/Tasneem-Alaa/DS_Guide_Me)**: A budget-conscious travel companion using **Graph theory** (BFS/DFS) to find optimal routes.
+- ✈️ **[Wanderlift](https://github.com/Tasneem-Alaa/Wanderlift)**: A robust travel management system built with **Object-Oriented Programming (OOP)**, featuring complex Role-Based Access Control (RBAC) and seamless service coordination.
 
 ---
-
 
 ### 🌐 Get in Touch:
 
