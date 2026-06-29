@@ -59,7 +59,7 @@ I'm a passionate Computer Science student who loves solving problems and creatin
 ---
 ## Projects
 
-- 🤖 **HireVision (Graduation Project)**: An AI-powered recruitment system for automated CV analysis, job recommendations, video interviews, and question generation.
+- 🤖 **[HireVision](https://github.com/3twla-Girls/HireVision) (Graduation Project)**: An AI-powered recruitment system for automated CV analysis, job recommendations, video interviews, and question generation.
 - 👥 **[TasNet](https://github.com/Tasneem-Alaa/TasNet-SocialApp)**: A full-stack MERN social media platform designed for seamless user connectivity.
 - 🕵🏼‍♀️ **[MysteryCase](https://github.com/Tasneem-Alaa/MysteryCase)**: An immersive detective puzzle web game solving criminal cases through logic and clues.
 - 📊 **[Steam Sales Analysis](https://github.com/3twla-Girls/Videogame-Sales-on-Steam-Prediction)**: ML project predicting game success with 90.7% accuracy.
